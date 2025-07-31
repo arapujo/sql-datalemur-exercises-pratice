@@ -1,6 +1,10 @@
 # exercicios_sql 👩‍💻
 
-#### Este repositório contém minhas soluções para os desafios de SQL do [DataLemur](https://datalemur.com/)
+
+  <img src="banner.png" alt="Banner DataLemur" width="100%" height="290"/>
+
+
+<h4 align="center">Este repositório contém minhas soluções para os desafios de SQL do <a href="https://datalemur.com/">DataLemur</a></h4>
 
 
 ---
