@@ -1,5 +1,9 @@
 # exercicios_sql 👩‍💻
+
 #### Este repositório contém minhas soluções para os desafios de SQL do [DataLemur](https://datalemur.com/)
+
+
+---
 
 As queries são executadas no ambiente integrado PostgreSQL 14 disponível no site. Os exercícios estão divididos entre níveis fáceis, médios e difíceis.  
 
