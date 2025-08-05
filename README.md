@@ -19,8 +19,8 @@ O intuito deste repositório é **rever conceitos**, **praticar habilidades em S
 
 | Desafio | Solução | Assunto | Nível |
 |:--------|:-------:|:--------|:-----:|
-| [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) | [Solução]() | COUNT, GROUP BY | Fácil |
-| [Data Science Skills](https://datalemur.com/questions/matching-skills) | [Solução]() | COUNT(DISTINCT), GROUP BY, HAVING | Fácil |
-| [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) | [Solução]() | LEFT JOIN | Fácil |
+| [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) | [Solução](scripts/easy/01-histogram_of_tweets.sql) | COUNT, GROUP BY | Fácil |
+| [Data Science Skills](https://datalemur.com/questions/matching-skills) | [Solução](scripts/easy/02-data-science-skills.sql) | COUNT(DISTINCT), GROUP BY, HAVING | Fácil |
+| [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) | [Solução](scripts/easy/03-facebook-sql-interview.sql) | LEFT JOIN | Fácil |
 | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [Solução]() | WHERE | Fácil |
 
